@@ -1,4 +1,4 @@
-FROM nextcloud:latest
+FROM nextcloud:stable
 
 LABEL maintainer="github.com/Develbold"
 
